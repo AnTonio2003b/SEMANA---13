@@ -1,0 +1,12 @@
+.hsl-color {
+    background-color: hsl(120,100%, 50%); /*verde brillante*/
+    color: hsla(0, 100%, 50%, 0.7);/*rojo semi-transparente*/
+    padding: 10px;
+    transition: 1s;
+}
+
+.hsl-color:hover {
+    background-color: hsl(310, 88%, 22%); /*verde brillante*/
+    color: hsla(192, 68%, 55%, 0.7);/*rojo semi-transparente*/
+    padding: 10px;
+}

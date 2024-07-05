@@ -1,0 +1,19 @@
+
+.red-text {
+    color: red;
+    /* Color rojo */
+}
+
+.blue-background {
+    background-color: blue;
+    /* Fondo azul */
+    color: white;
+    /* Texto blanco para contraste */
+    padding: 10px;
+}
+
+.green-border {
+    border: 2px solid green;
+    /* Borde sólido verde */
+    padding: 10px;
+}

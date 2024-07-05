@@ -1,0 +1,12 @@
+.custom-color {
+    background-color: rgb(255,128,0);/*Color naranja*/
+    color: rgba(0,0,255,0.7);/*color azul semi-transparente*/
+    padding: 10px;
+}
+
+.nuevo-color {
+    color:  rgb(234,200,0.6);/*Color amarillo*/
+    text-shadow: 5px 10px 7px rgba(100,100,250,0.8);
+
+}
+
